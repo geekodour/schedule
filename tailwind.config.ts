@@ -55,10 +55,11 @@ const config: Config = {
 				sm: "calc(var(--radius) - 4px)"
 			},
 			fontFamily: {
-				// sans: ['Inter', ...fontFamily.sans],
-				sans: ['Platypi', 'Sedan SC', ...fontFamily.sans],
-				// spice: ['Bungee Spice'],
-				// sedan: ['Sedan SC']
+				sans: ['Inter', ...fontFamily.sans],
+				// sans: ['Platypi', 'Sedan SC', ...fontFamily.sans],
+				// sans: ['Platypi', 'Sedan SC', ...fontFamily.sans],
+				spice: ['Bungee Spice'],
+				sedan: ['Sedan SC']
 			}
 		}
 	},
