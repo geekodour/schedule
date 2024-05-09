@@ -4,10 +4,10 @@
 
 <div class="flex flex-col px-4">
   <div class="flex flex-col items-center">
-    <h1 class="text-4xl font-spice">geekodour's public streams</h1>
-    <h2 class="text-2xl"> i stream bad art, bad guitar practice and bad programming practice </h2>
+    <h1 class="font-spice text-xl md:text-4xl">geekodour's public streams</h1>
+    <h2 class="text-xs md:text-2xl"> i stream bad art, bad guitar practice and bad programming practice </h2>
     <div class="mt-4">
-      <a href="https://www.twitch.tv/geekodour08" class="text-2xl underline">
+      <a href="https://www.twitch.tv/geekodour08" class="text-l md:text-2xl underline">
         twitch/geekodour08
       </a>
     </div>
