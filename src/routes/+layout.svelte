@@ -3,7 +3,7 @@
 		<slot> </slot>
 	</div>
 	<div>
-		<div class="flex justify-center p-4 bg-stone-300">
+		<div class="flex justify-center p-4 bg-stone-300 text-xs text-center">
 			life is tough my man, this site is like how i text. not responsive enough.
 		</div>
 	</div>
