@@ -4,7 +4,7 @@
 	</div>
 	<div>
 		<div class="flex justify-center p-4 bg-stone-300">
-			life is tough my man, this site is like how i text. not responsive.
+			life is tough my man, this site is like how i text. not responsive enough.
 		</div>
 	</div>
 </div>
